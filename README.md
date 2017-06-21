@@ -1,17 +1,17 @@
 # Project
 
-> >Contact Manager project
->Log in to get to your dashboard
->Create, update, delete your contact
->View contacts of selected users
+Contact Manager project
+a. Log in to get to your dashboard
+b. Create, update, delete, manage your contact list
+c. View contacts of selected users
 
 
 ## Note
->PUG view
->AJAX calls from script
->maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome for the coffee pic
+-PUG view
+-AJAX calls from script
+-maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome for the coffee pic
 
-DO THE LOGIN
+
 
 ## Team
 
