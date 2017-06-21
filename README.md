@@ -1,9 +1,9 @@
 # Project
 
-Contact Manager project
-a. Log in to get to your dashboard
-b. Create, update, delete, manage your contact list
-c. View contacts of selected users
+  - __Contact Manager project__:
+  - __Log in to get to your dashboard__
+  - __Create, update, delete, manage your contact list__
+  - __View contacts of selected users__
 
 
 ## Note
